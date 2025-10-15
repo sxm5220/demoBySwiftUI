@@ -33,8 +33,3 @@
 <img src="https://github.com/sxm5220/demoBySwiftUI/blob/main/pages/d5/01.jpg" width="200" alt="截图" />
 </p>
 
-###### demo07
-*****
-<p align="left">
-<img src="https://github.com/sxm5220/demoBySwiftUI/blob/main/pages/d7/01.gif" width="200" alt="截图" />
-</p>
